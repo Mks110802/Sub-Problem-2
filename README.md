@@ -1,4 +1,4 @@
-# Sub-Challenge 3: RAG-Powered Nodal Analysis
+# Sub-Challenge 2: RAG-Powered Nodal Analysis
 ## Complete Setup & Implementation Guide
 
 ---
